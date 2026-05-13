@@ -6,7 +6,7 @@
 
 ```
 IP-Subnet-Validator/
-├── [README.md](README.md)              # 主程序入口
+├── README.md            # 主程序入口
 ├── ip_validator.py      # IP地址验证模块
 ├── ip_utils.py          # IP地址工具函数模块
 ├── network_calculator.py # 网络计算模块
