@@ -6,7 +6,7 @@
 
 ```
 IP-Subnet-Validator/
-├── main.py              # 主程序入口
+├── [README.md](README.md)              # 主程序入口
 ├── ip_validator.py      # IP地址验证模块
 ├── ip_utils.py          # IP地址工具函数模块
 ├── network_calculator.py # 网络计算模块
@@ -104,6 +104,6 @@ IP地址工具函数模块，提供：
 ## 项目声明
 本项目的作者及单位
 ```
-项目名称：windows-process-unlink-methods
+项目名称：IP-Subnet-Validator
 项目作者：Chang Ding, Hong Deng, Jianhui Qiu, Shengrui Gao, Zhiquan Liu
 作者单位：暨南大学网络空间安全学院
